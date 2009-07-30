@@ -1,6 +1,14 @@
 = proc_to_awesome
 
-Description goes here.
+Have you ever been looking at a piece of code, and it becomes obvious that the author
+has never heard of the Open-Closed Principle? [1].  He's got if's and cases and regular
+expression matches all over the place, with no way for you to inject whatever crazy
+code you want.  Well, F that junk, this is Ruby.  Let's do that thing.
+
+Warning: ingesting proc_to_awesome may lead to psychedelic hallucinations and/or incurring
+the wrath of the entire Python Nation.
+
+[1] Open-Closed Principle: http://www.objectmentor.com/resources/articles/ocp.pdf
 
 == Copyright
 
